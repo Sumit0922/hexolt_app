@@ -28,5 +28,5 @@ To set up the Hexolt app on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hexolt.git
+   git clone https://github.com/Sumit0922/hexolt_app.git
    cd hexolt
